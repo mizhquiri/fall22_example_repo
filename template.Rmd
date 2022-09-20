@@ -1,6 +1,6 @@
 ---
 title: "Simple document"
-output: html_document
+output: github_document
 ---
 
 Generally speaking, you should in best practice load all packages you will need. THis would help a reader know what is needed.
