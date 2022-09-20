@@ -61,13 +61,6 @@ ggplot(plot_df, aes(x = x, y = y)) + geom_point()
 
 
 This makes it so you don't run the code (helpful if you want to document for some reason)
-```{r eval = FALSE}
-
-ggplot(plot_df, aes(x = x)) + geom_histogram()
-
-
-
-```
 
 This suppresses the messages that pop up 
 ```{r echo = FALSE}
